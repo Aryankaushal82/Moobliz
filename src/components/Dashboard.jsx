@@ -54,19 +54,19 @@ function Dashboard() {
         <Card
           imageSrc={'https://res.cloudinary.com/dicnuc6ox/image/upload/v1722683554/logo_llqzae.png'}
           title="Aryan Pathania"
-          subtitle="Your Savings: Rs10000"
+          subtitle="riam perspiciatis a itaque beatae. Vitae impedit temporibus beatae eligendi pariatur sequi inventore laboriosam veniam?"
           className="md:w-[400px] w-[250px] h-[150px] md:mt-0 mt-4"
         />
         <Card
             imageSrc={'https://res.cloudinary.com/dicnuc6ox/image/upload/v1722683554/logo_llqzae.png'}
           title="Aryan Pathania"
-          subtitle="Your Savings: Rs10000"
+          subtitle="Lorem aperiam perspiciatis a itaque beatae. Vitae impedit temporibus beatae eligendi pariatur sequi inventore laboriosam veniam?"
           className="md:w-[400px] w-[250px] h-[150px] md:mt-0 mt-4"
         />
         <Card
           imageSrc={'https://res.cloudinary.com/dicnuc6ox/image/upload/v1722683554/logo_llqzae.png'}
           title="Aryan Pathania"
-          subtitle="Your Savings: Rs10000"
+          subtitle="Lorem ipsum dm perspiciatis a itaque beatae. Vitae impedit temporibus beatae eligendi pariatur sequi inventore laboriosam veniam?"
           className="md:w-[400px] w-[250px] h-[150px] md:mt-0 mt-4"
         />
       </div>
@@ -83,22 +83,23 @@ function Dashboard() {
         <Card
           imageSrc={'https://res.cloudinary.com/dicnuc6ox/image/upload/v1722683554/logo_llqzae.png'}
           title="Aryan Pathania"
-          subtitle="Your Savings: Rs10000"
+          subtitle="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Harum consequatur ut quisquam eos sapiente minus aperiam perspiciatis a itaque beatae. Vitae impedit temporibus beatae eligendi pariatur sequi inventore laboriosam veniam?"
           className="md:w-[400px] w-[250px] h-[150px] md:mt-0 mt-4"
         />
         <Card
           imageSrc={'https://res.cloudinary.com/dicnuc6ox/image/upload/v1722683554/logo_llqzae.png'}
           title="Aryan Pathania"
-          subtitle="Your Savings: Rs10000"
+          subtitle="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Harum consequatur ut quisquam eos sapiente minus aperiam perspiciatis a itaque beatae. Vitae impedit temporibus beatae eligendi pariatur sequi inventore laboriosam veniam?"
           className="md:w-[400px] w-[250px] h-[150px] md:mt-0 mt-4"
         />
         <Card
           imageSrc={'https://res.cloudinary.com/dicnuc6ox/image/upload/v1722683554/logo_llqzae.png'}
           title="Aryan Pathania"
-          subtitle="Your Savings: Rs10000"
+          subtitle="Your SLorem ipsum dolor, sit amet consectetur adipisicing elit. Harum consequatur ut quisquam eos sapiente minus aperiam perspiciatis a itaque beatae. Vitae impedit temporibus beatae eligendi pariatur sequi inventore laboriosam veniam?avings: Rs10000"
           className="md:w-[400px] w-[250px] h-[150px] md:mt-0 mt-4"
         />
       </div>
+      
     </div>
   );
 }

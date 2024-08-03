@@ -26,7 +26,7 @@ const navLinks = [
     icon: Clock4Icon,
   },
   {
-    link: "Analytics",
+    link: "Inventory",
     icon: BarChart3Icon,
   },
   {

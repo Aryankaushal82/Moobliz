@@ -89,10 +89,6 @@ export default () => {
                     </motion.li>
                   ))}
                   <motion.li whileHover={{ scale: 1.1 }}>
-                  /*
-                  
-                      
-                  */
                     <Link to='/login' className="flex items-center justify-center gap-x-1 py-2 px-4 text-white font-medium bg-sky-500 hover:bg-sky-400 active:bg-sky-600 duration-150 rounded-full md:inline-flex" >
                     Get Started
                     <svg
