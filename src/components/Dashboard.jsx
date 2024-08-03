@@ -52,19 +52,19 @@ function Dashboard() {
 
       <div className="md:flex md:space-x-8 py-6 justify-center flex-wrap">
         <Card
-          imageSrc={'../../public/logo.png'}
+          imageSrc={'https://res.cloudinary.com/dicnuc6ox/image/upload/v1722683554/logo_llqzae.png'}
           title="Aryan Pathania"
           subtitle="Your Savings: Rs10000"
           className="md:w-[400px] w-[250px] h-[150px] md:mt-0 mt-4"
         />
         <Card
-            imageSrc={'../../public/logo.png'}
+            imageSrc={'https://res.cloudinary.com/dicnuc6ox/image/upload/v1722683554/logo_llqzae.png'}
           title="Aryan Pathania"
           subtitle="Your Savings: Rs10000"
           className="md:w-[400px] w-[250px] h-[150px] md:mt-0 mt-4"
         />
         <Card
-          imageSrc={'../../public/logo.png'}
+          imageSrc={'https://res.cloudinary.com/dicnuc6ox/image/upload/v1722683554/logo_llqzae.png'}
           title="Aryan Pathania"
           subtitle="Your Savings: Rs10000"
           className="md:w-[400px] w-[250px] h-[150px] md:mt-0 mt-4"
@@ -81,19 +81,19 @@ function Dashboard() {
 
       <div className="md:flex md:space-x-8 py-6 md:justify-center">
         <Card
-          imageSrc={'../../public/logo.png'}
+          imageSrc={'https://res.cloudinary.com/dicnuc6ox/image/upload/v1722683554/logo_llqzae.png'}
           title="Aryan Pathania"
           subtitle="Your Savings: Rs10000"
           className="md:w-[400px] w-[250px] h-[150px] md:mt-0 mt-4"
         />
         <Card
-          imageSrc={'../../public/logo.png'}
+          imageSrc={'https://res.cloudinary.com/dicnuc6ox/image/upload/v1722683554/logo_llqzae.png'}
           title="Aryan Pathania"
           subtitle="Your Savings: Rs10000"
           className="md:w-[400px] w-[250px] h-[150px] md:mt-0 mt-4"
         />
         <Card
-          imageSrc={'../../public/logo.png'}
+          imageSrc={'https://res.cloudinary.com/dicnuc6ox/image/upload/v1722683554/logo_llqzae.png'}
           title="Aryan Pathania"
           subtitle="Your Savings: Rs10000"
           className="md:w-[400px] w-[250px] h-[150px] md:mt-0 mt-4"

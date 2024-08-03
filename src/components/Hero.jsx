@@ -26,7 +26,7 @@ export default () => {
         <div className="flex items-center justify-between py-5 md:block">
             <a href="#">
                 <img
-                    src="../../../public/image-removebg-preview.png"
+                    src={"https://res.cloudinary.com/dicnuc6ox/image/upload/v1722683549/image-removebg-preview_setzmy.png"}
                     width={120}
                     height={50}
                     alt="Float UI logo"

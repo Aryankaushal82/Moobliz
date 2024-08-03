@@ -76,7 +76,7 @@ function Navbarr() {
       <Link to='/'>
       <div className="logo-div flex space-x-4 items-center">
         <img
-          src="../../public/logo.png"
+          src="https://res.cloudinary.com/dicnuc6ox/image/upload/v1722683554/logo_llqzae.png"
           className={`md:w-8 w-8 ml-2 logo ${isExpanded ? 'logo-spin' : ''}`} // Add logo-spin class conditionally
           alt="Logo"
         />
